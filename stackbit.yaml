@@ -396,6 +396,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+    description: ''
   post:
     type: page
     urlPath: /blog/{slug}
