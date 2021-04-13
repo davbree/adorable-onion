@@ -23,7 +23,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Title...
         description: Site title!!!!!
         required: true
       - type: string
@@ -148,6 +148,7 @@ models:
           type: string
       - name: aaa
         type: string
+        label: Aaa
   header:
     type: object
     label: Header configuration
