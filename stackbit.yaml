@@ -24,7 +24,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: Site title!!!
+        description: Site title!!!!!
         required: true
       - type: string
         name: baseurl
