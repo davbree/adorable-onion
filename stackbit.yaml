@@ -23,7 +23,7 @@ models:
     fields:
       - type: string
         name: title
-        label: TitleZZZ
+        label: Title--
         description: Site title!!!!!
         required: true
       - type: string
