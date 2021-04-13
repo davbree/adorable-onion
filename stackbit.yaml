@@ -146,6 +146,8 @@ models:
         hidden: true
         items:
           type: string
+      - name: ''
+        type: string
   header:
     type: object
     label: Header configuration
