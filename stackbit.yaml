@@ -146,7 +146,7 @@ models:
         hidden: true
         items:
           type: string
-      - name: ''
+      - name: aaa
         type: string
   header:
     type: object
